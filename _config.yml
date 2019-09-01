@@ -1,1 +1,9 @@
 theme: jekyll-theme-leap-day
+name: 'IDK'
+description: 'The literary club of Sir M. Visvesvaraya Institute of Technology, Bangalore.'
+logo: ''
+favicon: 'assets/images/favicon.ico'
+baseurl:
+disqus: 'leomvit'
+email: 'abhishek.shubhamkr@gmail.com'
+mailchimp-list: ''
